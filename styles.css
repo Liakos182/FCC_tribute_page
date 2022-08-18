@@ -1,0 +1,31 @@
+*{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f5c080;
+    font-family:monospace
+}
+img{
+    display: block;
+    max-width: 100%;
+    margin-bottom: 15px;
+    
+    
+}
+title{
+    font-weight: bolder;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+a:visited{
+    color: blueviolet;
+}
+a:active{
+    color: blue;
+}
